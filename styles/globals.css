@@ -31,3 +31,21 @@ body {
     text-wrap: balance;
   }
 }
+
+.childBtn{
+  padding: 20px;
+  margin: 20px;
+  background-color: antiquewhite;
+}
+
+#red{
+  padding: 20px;
+  margin: 20px;
+  background-color: red;
+}
+
+#green{
+  padding: 20px;
+  margin: 20px;
+  background-color: green;
+}
